@@ -1,14 +1,1 @@
-Welcome to ICS Lab 2!
-
-To login to your personal instance, run the following command from
-within the BTU network (if you are not at BTU, you must utilize a VPN):
-    ssh mallory@neuseeland.informatik.tu-cottbus.de -p 1335
-
-Note that 1335 is your personal instance's port, as referred to in
-the task description.
-
-Your login password is: 83qSfNMq
-
-
-------------------
-connect with cisco client, and everything will be okay :) 
+Welcome to ICS Lab 
