@@ -28,3 +28,7 @@ ICS_Labs is a collection of hands-on machine learning and network security exerc
 
 ## Notes
 All scripts are designed to support reproducible experiments in intrusion detection and adversarial robustness, and users should consult the task sheet for exact evaluation and submission requirements 
+
+- You can find more advanced labs solution in this [repo](https://github.com/abdelazizSalah/Ethical-Labs)
+
+
